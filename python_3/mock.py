@@ -1,7 +1,7 @@
 from datetime import date
 
-x="hello gaurav hello"
-print(str(x),str(x)[::-1])
+# x="hello gaurav hello"
+# print(str(x),str(x)[::-1])
 
 employees = [
     {
